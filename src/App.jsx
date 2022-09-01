@@ -1,6 +1,5 @@
 import './App.css'
 import SearchPage from './pages/SearchPage'
-import ResultPage from './pages/ResultPage'
 
 
 function App() {
